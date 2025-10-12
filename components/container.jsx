@@ -1,4 +1,4 @@
-// This component is related to container relateds
+// This component is related to container relate
 
 export default function Container({ children }) {
   return(
