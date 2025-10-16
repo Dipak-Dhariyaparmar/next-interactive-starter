@@ -1,4 +1,4 @@
-// this is  a header components
+// this is  a header component
 
 import Container from "@/components/container";
 import Link from "next/link";
